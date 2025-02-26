@@ -1,0 +1,4 @@
+_version = 0.1
+
+[irc-client]
+activity_id = "fun-ex-irc-client"
